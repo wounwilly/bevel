@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ajv": "^6.12.6",
+    "ajv-errors": "^1.0.1"
+  },
+  "devDependencies": {
+    "ajv-formats": "^2.1.1"
+  }
+}
